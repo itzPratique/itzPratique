@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pratik Kamble
 
-### 🔐 MSc Information Security @ UCL | VAPT & Offensive Security
+### 🔐 MSc Information Security @ UCL | Security Engineering • VAPT • High-Performance Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratik-kamble-12203a2a4/) 
 
@@ -12,32 +12,35 @@
 
 ### 👨‍💻 About Me
 
-I am currently a postgraduate student pursuing an **MSc in Information Security** at **University College London (UCL)** (NCSC-accredited).
+I work across cybersecurity and software engineering, with experience in VAPT and backend development.
 
-I work at the intersection of breaking systems and improving them. With a strong foundation in **Full Stack Development**, I approach security with a developer's mindset—understanding how applications are built helps me better identify logical vulnerabilities and misconfigurations.
+At QRC, I worked on security assessments across web applications and internal networks. Before that, I worked in backend development at IIT Bombay, which gave me a habit of looking at systems from both sides: how they are built and where they can break.
 
-*  **Currently working on:** Advanced VAPT methodologies and Purple Teaming (Red + Blue Teaming).
+I enjoy getting deep into systems, understanding how they behave under real constraints, finding where assumptions fail, and figuring out what can actually be improved.
 
-*  **Education:** MSc Information Security (University College London) & B.Tech Computer Engineering (University of Mumbai).
+* **Currently exploring:** High-performance and event-driven systems, performance/latency engineering, and security engineering.
 
-*  **Experience:** Former Associate Cybersecurity Analyst at QRC Solutions; Backend Intern at IIT Bombay.
+* **Education:** MSc Information Security (University College London) & B.Tech Computer Engineering (University of Mumbai).
+
+* **Experience:** Former Associate Cybersecurity Analyst at QRC Solutions; Backend Development Intern at IIT Bombay.
 
 ---
 
 ### 🧠 Security Concepts & Methodology
 
-*Before touching any tool, I focus on the methodology:*
-
-* **Vulnerability Assessment & Penetration Testing (VAPT)**
-* **Reconnaissance & Enumeration** (Active/Passive)
-* **Web Application Security** (OWASP Top 10)
-* **Network Traffic Analysis**
+* **Security Engineering**
+* **Event-Driven Systems & Performance Telemetry**
+* **VAPT** (OWASP Top 10) & **CVSS**
+* **Web Application Security** 
+* **Network Security & Traffic Analysis**
 * **Exploitation & Privilege Escalation**
 * **Incident Response & Threat Analysis**
 
 ---
 
-### 🛠️ Arsenal & Tech Stack
+### 🛠️ Tech Stack
+
+#### **Currently exploring:** Docker • Kubernetes • Event-Driven Architectures • Performance & Latency Engineering
 
 #### **🛡️ Security & Pentesting**
 
@@ -63,19 +66,14 @@ I work at the intersection of breaking systems and improving them. With a strong
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
 ### 🏆 Featured Projects
 
 | Project | Description | Tech/Tools |
-
-| **VAPT Labs** | 50+ completed labs focusing on SQLi, XSS, SSRF, IDOR and, Auth Bypass. | PortSwigger, TryHackMe |
-
-| **KryptX (Web 3.0)** | A decentralized blockchain app for secure digital asset management with Market & Wallet features. | ReactJS, Solidity, MetaMask |
-
-| **OWASP Risk Calculator** | A tool to assess web app risks based on Threat Agents, Vulnerability Factors, and Business Impact. | HTML/JS, OWASP Methodology |
-
----
+|---|---|---|
+| **Quant Trading Security Pipeline** | Event-driven trading pipeline covering market data, strategy execution, order validation, execution, anomaly detection, and latency telemetry. | Python, JSONL |
+| **VAPT Labs** | 50+ labs covering SQLi, XSS, SSRF, IDOR, command injection, and authentication vulnerabilities. | PortSwigger, TryHackMe |
+| **KryptX (Web 3.0)** | Blockchain-based application for secure digital asset management with market and wallet functionality; published in IRJET. | ReactJS, MetaMask, Web3 |
+| **OWASP Risk Calculator** | Web tool for assessing application risk using OWASP likelihood and impact methodology. | HTML, JavaScript, OWASP |
 
 ### 📈 Stats
 
